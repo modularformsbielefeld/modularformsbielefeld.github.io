@@ -25,7 +25,7 @@
 }
 
 body{
-    background-color: #F0F7F4;
+    background-color: #FAFAFF;
     background-size: cover;
     background-attachment: fixed;
     color: #18314F; 
@@ -38,8 +38,8 @@ body{
 }
 
 a{color: #c65032; text-decoration:none;}
-a.current{color: #86BAA1;}
-a.current:hover{color: #5f2c3e;}
+a.current{color: #08A4BD;}
+a.current:hover{color: #29335C;}
 a:hover{color: #29335C;}
 a:active{color: #e82945;}
 h1,h2,h3,h4{clear:left; color: #c65032; margin:1.5em 0em 1em 0em; font-family:'Roboto Slab',serif; text-shadow: 1px 1px 2px #d0d0d0;}
@@ -78,12 +78,12 @@ th,td{
 
 /* Website Banner */
 .banner {position: relative; font-family:'Roboto Slab',serif;}
-.top-left {font-size:2em; color: #505050; background: #F0F7F4; text-align: center; width: 1000px; height: 50px; position: absolute; padding: 30px 0 0 0; top: 0px;}
+.top-left {font-size:2em; color: #505050; background: #FAFAFF; text-align: center; width: 1000px; height: 50px; position: absolute; padding: 30px 0 0 0; top: 0px;}
 .bottom-right {font-size:2em; color: #fafafa; line-height: 1.5em; width: auto; height: 100px; padding: 0px 27px 27px 0px; text-align: right; position: absolute; bottom: 0px; right: 0px; text-shadow: 0px 0px 6px #000000;}
 
 /* Conference Title Logo */
-.title1{color: #b2132e; text-shadow: 1px 1px 3px #c0c0c0;} 
-.title2{color: #52739e; text-shadow: 1px 1px 3px #c0c0c0;}
+.title1{color: #c65032; text-shadow: 1px 1px 3px #c0c0c0;} 
+.title2{color: #08A4BD; text-shadow: 0px 1px 0px #01172F;}
 .year{color: #505050; font-size:0.67em; font-weight: lighter;}
 
 /* Navigation Links (Home, Registration, etc) */
