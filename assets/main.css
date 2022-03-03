@@ -37,7 +37,7 @@ body{
     width: 1000px;
 }
 
-a{color: #FF7D00; text-decoration:none;}
+a{color: #c65032; text-decoration:none;}
 a.current{color: #86BAA1;}
 a.current:hover{color: #5f2c3e;}
 a:hover{color: #29335C;}
@@ -96,13 +96,14 @@ td.sponsor{white-space:nowrap; width:33%; text-align:center; vertical-align:midd
 td.sponsor img{width: 100%}
 
 /* The Table on the Program Page */
+tr.courses{border-bottom: 1px solid #ddd;}
 td.room{padding: 4px 12px 4px 4px; width: 90%; vertical-align:bottom; font-size:1.67em; color: #52739e; height:32px;}
 td.date{white-space:nowrap; width:130px; text-align:right; vertical-align:top; padding:4px 16px 0px 0px;}
 td.photo img{display: block; vertical-align:top; margin:4px auto 8px auto}
-td.title{padding: 4px 12px 4px 4px; width: 90%; vertical-align:top; font-size:1.5em; color: #813c54; height:32px; font-family:'Roboto Slab',serif; text-shadow: 1px 1px 2px #d0d0d0; }
+td.title{padding: 25px 0px 0px 0px; width: 90%; vertical-align:top; font-size:1.5em; color: #813c54; height:24px; font-family:'Roboto Slab',serif; text-shadow: 1px 1px 2px #d0d0d0; }
 td.title-special{padding: 4px 12px 4px 4px; width: 90%; vertical-align:top; font-size:1.67em; color: #52739e; height:32px; font-family:'Roboto Slab',serif; text-shadow: 1px 1px 2px #d0d0d0;}
 td.speaker{padding: 4px 12px 4px 4px; font-style: italic; font-size:1em; max-height:999999px}
-td.abstract{padding: 4px 12px 12px 4px; font-size:1em; max-height:999999px}
+td.abstract{padding: 0px 0px 0px 0px; font-size:1em; max-height:999999px}
 td.abstract img{display: block; margin: 4px auto 8px auto}
 table.plenary{padding-top: 8px; background: #ffffff;}
 
